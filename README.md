@@ -72,3 +72,28 @@ pip install -r requirements.txt
 
 # Jalankan tool
 python src/mrd10x.py
+
+
+## ⚖️ LEGAL DISCLAIMER
+
+## TUJUAN PENGGUNAAN
+Tools ini dibuat **hanya untuk**:
+- Testing keamanan sistem yang dimiliki sendiri
+- Penetration testing dengan izin tertulis dari pemilik sistem
+- Pendidikan dan penelitian ethical hacking
+- Testing lingkungan development/staging milik sendiri
+
+## PENGGUNAAN YANG DILARANG
+**JANGAN gunakan tools ini untuk**:
+- Mengakses sistem tanpa izin (unauthorized access)
+- Melakukan serangan DoS/DDoS
+- Aktivitas hacking ilegal
+- Menyerang sistem orang lain
+- Aktivitas kriminal lainnya
+
+## TANGGUNG JAWAB
+Pengguna bertanggung jawab penuh atas penggunaan tools ini.  
+Penulis tidak bertanggung jawab atas penyalahgunaan tools.
+
+## KEPATUHAN HUKUM
+Pastikan Anda mematuhi semua hukum yang berlaku di negara Anda sebelum menggunakan tools ini.
