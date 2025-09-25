@@ -66,11 +66,9 @@ Tools ini hanya untuk:
 
 ```bash
 # Clone repository
-git clone https://github.com/mrd10x/mrd10x-ethical-tools.git
-cd mrd10x-ethical-tools
-
+git clone https://github.com/mrd10x-code/mr.d10x30tools.git
 # Install dependencies
 pip install -r requirements.txt
 
 # Jalankan tool
-python src/mrd10x_tools.py
+python src/mrd10x.py
