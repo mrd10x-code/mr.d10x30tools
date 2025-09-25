@@ -67,11 +67,23 @@ Tools ini hanya untuk:
 ```bash
 # Clone repository
 git clone https://github.com/mrd10x-code/mr.d10x30tools.git
-# Install dependencies
-pip install -r requirements.txt
 
-# Jalankan tool
-python src/mrd10x.py
+# Masuk ke folder
+cd mr.d10x30tools
+
+# Install dependencies
+pip3 install -r requirements.txt
+
+# Jalankan tools (YANG BENAR!)
+python3 mrd10x.py
+
+# lengkapnya
+user@linux:~$ git clone https://github.com/mrd10x-code/mr.d10x30tools.git
+user@linux:~$ cd mr.d10x30tools
+user@linux:~/mr.d10x30tools$ ls
+mrd10x_tools.py  requirements.txt  README.md
+user@linux:~/mr.d10x30tools$ pip3 install -r requirements.txt
+user@linux:~/mr.d10x30tools$ python3 mrd10x.py
 
 
 ## ⚖️ LEGAL DISCLAIMER
